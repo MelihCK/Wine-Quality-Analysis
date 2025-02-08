@@ -40,7 +40,7 @@ The dataset used in this project is publicly available on Kaggle:
    'cd stat467-wine-quality-analysis'
 2. Ensure you have R and the required libraries installed.
 3. Run the analysis scripts in R
-   'source("Stat_467_Project.R")'
+   'source("code_Wine_Quality.R")'
 
 ## 📜 References
 - Principal Component Analysis in R: Statology
