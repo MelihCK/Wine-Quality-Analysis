@@ -4,9 +4,9 @@
 
 ### 📌 Course: STAT467 - Multivariate Analysis  
 ### 👥 Group Members:  
-- **Mustafa Uğur Yalçın**  
-- **Melih Can Kanmaz**  
-- **Tevfik Oğuz**  
+<a href="https://github.com/muguryalcin">Mustafa Uğur Yalçın</a>,<br> 
+<a href="https://github.com/MelihCK">Melih Can Kanmaz</a>, <br>
+<a href="https://github.com/tevfik0guz">Tevfik Oğuz</a><br>
 
 ## 📖 Project Overview  
 This project aims to analyze wine quality data using various multivariate statistical techniques. We explore factors that influence wine quality, the impact of wine color on quality, and the relationships between different chemical properties using methods such as PCA, MANOVA, Factor Analysis, Clustering, and Canonical Correlation Analysis.
@@ -36,7 +36,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ## 🔧 How to Run  
 1. Clone this repository:  
-   'git clone https://github.com/yourusername/stat467-wine-quality-analysis.git'
+   'git clone https://github.com/MelihCK/Wine-Quality-Analysis.git'
    'cd stat467-wine-quality-analysis'
 2. Ensure you have R and the required libraries installed.
 3. Run the analysis scripts in R
